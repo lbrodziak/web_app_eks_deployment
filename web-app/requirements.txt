@@ -1,0 +1,2 @@
+# Flask is the only requirement for this app
+flask
